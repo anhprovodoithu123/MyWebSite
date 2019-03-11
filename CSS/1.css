@@ -1,0 +1,75 @@
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 15px;
+    border: none;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 5px 20px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: black; color: gray}
+
+.dropdown:hover .dropdown-content {display: block; }
+
+.dropdown:hover .dropbtn {color: gray;}
+
+#t01 {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+#t01:hover {
+    color: gray;
+}
+#t02 {
+    background-color: black;
+}
+#t03 {
+    padding-left: 290px;
+}
+#t09{margin-top: 120px;}
+#fo{
+    color: white;
+    background-color: black;
+    margin-top: 20%;
+}
+#WWE2k19:hover {
+    color: gray;
+}
+#WWE_2k19 {
+    width: 380px;
+    height: 248px;
+}
+#WWE2k19 {
+    font-size: 25px;
+    text-decoration: none;
+}
+#FB {
+    font-size: 50px
+}
+#tlinkFB, #linkGG, #linkTT {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-left: 200px;
+}
+#LoAndRegist {
+    text-decoration:none;
+    font-size: 25px;
+}
